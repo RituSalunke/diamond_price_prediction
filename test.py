@@ -14,7 +14,7 @@ st.set_page_config(
 # ==========================
 # LOAD DATA
 # ==========================
-df = pd.read_excel(r"D:\excel\diamonds.xlsx")
+df = pd.read_excel("diamonds.xlsx")
 
 # ==========================
 # LOAD SAVED FILES
